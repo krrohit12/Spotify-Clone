@@ -1,0 +1,14 @@
+<svg width="300" height="150" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background -->
+  <rect width="300" height="150" fill="#000000" />
+
+  <!-- Circle background -->
+  <circle cx="70" cy="75" r="40" fill="#ffffff"/>
+
+  <!-- Music note inside the circle -->
+  <path d="M65 55 C65 45, 75 45, 75 55 C75 65, 65 65, 65 55 Z" fill="#1DB954"/>
+  <line x1="75" y1="55" x2="75" y2="90" stroke="#1DB954" stroke-width="5"/>
+  
+  <!-- Large, bold text -->
+  <text x="140" y="90" font-family="Arial" font-size="40" font-weight="bold" fill="#ffffff">Echobeatzdfsf</text>
+</svg>
